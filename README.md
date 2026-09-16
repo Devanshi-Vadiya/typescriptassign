@@ -1,6 +1,6 @@
 # dsh-session-fork
 
-English | [简体中文](docs/README.zh.md)
+English | [简体中文](https://github.com/Jason-skd/dsh-session-fork/blob/main/docs/README.zh.md)
 
 `dsh-session-fork` brings a Git-like branch model to `DeepSeek Harness`, making it possible to work on several large, relatively independent tasks in parallel across dsh sessions.
 
@@ -8,7 +8,7 @@ Instead of keeping every task in one linear conversation, each task can evolve i
 
 This is a plugin for `DeepSeek Harness`; it cannot run standalone.
 
-![branch_tab](docs/media/branch_tab.png)
+![branch_tab](https://raw.githubusercontent.com/Jason-skd/dsh-session-fork/main/docs/media/branch_tab.png)
 
 ## Why branches for parallel development?
 
@@ -109,4 +109,4 @@ We take an open stance on AI collaboration: feel free to use AI to contribute co
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://github.com/Jason-skd/dsh-session-fork/blob/main/LICENSE)
